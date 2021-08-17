@@ -1,0 +1,11 @@
+method_call_description_entity:
+  - id: 00000000-0000-1000-8000-000000000000
+    method: method_0
+    successful: true
+    response: response 0
+    timestamp: '2021-01-01 00:00:00'
+  - id: 00000000-0000-1000-8000-000000000001
+    method: method_1
+    successful: true
+    response: response 1
+    timestamp: '2021-01-01 01:00:00'
