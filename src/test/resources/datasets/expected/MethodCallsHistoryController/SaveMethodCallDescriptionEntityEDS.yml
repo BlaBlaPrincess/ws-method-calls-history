@@ -1,0 +1,7 @@
+method_call_description_entity:
+  - id: regex:\b[0-9a-f]{8}\b-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-\b[0-9a-f]{12}\b
+    method: method_0
+    args: 1, 2, 3, 4
+    successful: true
+    response: answer
+    timestamp: '2010-01-01 00:00:00'
